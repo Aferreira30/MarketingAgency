@@ -1,8 +1,9 @@
 import styled from "styled-components"
 
 export const ContHeader = styled.header`
-width:100%;
+width:1240px;
 height: 88px;
+margin: 0 auto;
 display:flex;
 align-items:center;
 justify-content:space-between;

@@ -1,0 +1,45 @@
+[
+  {
+    "id":"1",
+    "img":"static/prof/pessoa1.svg",
+    "name":"Amelia Joseph",
+    "professions":"Chief Manager",
+    "text":"Use this section to describe your company and the products you offer. You could share your company’s story and details about why you are in business. "
+  },
+  {
+    "id":"2",
+    "img":"static/prof/pessoa2.svg",
+    "name":"Jacob Joshua",
+    "professions":"Chief Manager",
+    "text":"Use this section to describe your company and the products you offer. You could share your company’s story and details about why you are in business. "
+  },
+  {
+    "id":"3",
+    "img":"static/prof/pessoa3.svg",
+    "name":"Jacob Joshua",
+    "professions":"Chief Manager",
+    "text":"Use this section to describe your company and the products you offer. You could share your company’s story and details about why you are in business. "
+  }, 
+   { 
+  "id":"4",
+  "img":"static/prof/pessoa4.svg",
+  "name":"Jacob Joshua",
+  "professions":"Chief Manager",
+  "text":"Use this section to describe your company and the products you offer. You could share your company’s story and details about why you are in business. "
+}, 
+{
+  "id":"5",
+  "img":"static/prof/pessoa5.svg",
+  "name":"Jacob Joshua",
+  "professions":"Chief Manager",
+  "text":"Use this section to describe your company and the products you offer. You could share your company’s story and details about why you are in business. "
+}, 
+{
+  "id":"6",
+  "img":"static/prof/pessoa6.svg",
+  "name":"Jacob Joshua",
+  "professions":"Chief Manager",
+  "text":"Use this section to describe your company and the products you offer. You could share your company’s story and details about why you are in business. "
+}
+
+  ]

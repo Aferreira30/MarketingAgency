@@ -3,10 +3,11 @@ import GlobalStyle from "../styleGlobal/globalStyles";
 import defaultTheme from "../styleGlobal/default";
 
 import Header from "../Components/Header";
+import Routers from "../Routers/routers";
+import Footer from "../Components/Footer";
 
 import { Container,ContainerContPrincipal } from "./style";
 
-import Routers from "../Routers/routers";
 
 import { BrowserRouter } from "react-router-dom";
 
@@ -17,10 +18,11 @@ function App() {
           <ThemeProvider  theme={defaultTheme}>
             <GlobalStyle/>
                 <Container>
-                  <ContainerContPrincipal>
                     <Header/>
+                  <ContainerContPrincipal>
                     <Routers />
                   </ContainerContPrincipal>
+                    <Footer />
                 </Container>
           </ThemeProvider>      
       </BrowserRouter>

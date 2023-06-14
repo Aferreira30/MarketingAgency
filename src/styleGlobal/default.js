@@ -12,8 +12,9 @@ export default {
     },
     LtSubTitleForte:{
       size:40,
-      weight:500,
-      lineHeight:56,
+      size2:48,
+      weight:500,      weight2:600,
+      lineHeight:56, lineHeight2:63,
       color:"#FFF"
     },
     LtSubTitles:{
@@ -30,17 +31,21 @@ export default {
     LtDrescription:{
       size:28,
       size2:24,
+      size3:20,
       weight:500,
       lineHeight:38,
-      lineHeight2:32,
+      lineHeight2:32,  
+      lineHeight3:32,
       color1:"#FFF",
       color2:" #3461FF"
     },
     LtParagraph:{
       size:18,
+      size2:20,
       weight:400,
       weight2:600,
       lineHeight:32,
+      lineHeight2:36,  
       color1:"rgba(0,0,0,0.6)",
       color2:"#fff",
       color3:"#3431FF"
@@ -55,6 +60,7 @@ export default {
     },
     LtMenu:{
       size:16,
+      size2:14,
       weight:500,
       lineHeight:22,
       lineHeight2:20,
@@ -63,6 +69,8 @@ export default {
   colors:{
     button:"#3461ff",
     buttonFont:"#fff",
-    bgAside:"#3461ff"
+    bgAside:"#3461ff",
+    bgSlider:"#F8F9FF",
+    bgFooter:"rgba(0,0,0,0.8)"
   }
 }
